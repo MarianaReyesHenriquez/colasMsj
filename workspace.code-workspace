@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "notes"
+		},
+		{
+			"path": "weather"
+		},
+		{
+			"path": "compose"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"git.ignoreLimitWarning": true
+	}
+}
